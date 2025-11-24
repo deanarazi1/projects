@@ -1,3 +1,9 @@
+"""
+    The intention of this script is to create a list of Oscar winning films which came after 1995 while their directors
+    were born before 1955 using the Wikipedia API and Webscraping
+"""
+
+
 import wikipedia
 from bs4 import BeautifulSoup
 import re
